@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# TextUtils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextUtils is a React application that provides various text manipulation tools to help you easily format and modify text. With TextUtils, you can convert text to lowercase or uppercase, delete selected text, copy the modified text to your clipboard, remove extra spaces, and toggle between light and dark modes for optimal readability.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Installation](#installation)
+- [Features](#features)
+- [Preview](#preview)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Follow these steps to set up and run TextUtils locally:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository:
+- git clone https://github.com/AbhinavBachchan/TextUtils.git  
+- cd TextuTils
 
-### `npm test`
+2. Now you are ready to start running the application. Use the following commands:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- npm install (to install all the required dependencies).  
+- npm run start (to start the application).  
 
-### `npm run build`
+  #### Finally, TextUtils is now running on localhost.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Text Transformation**: Easily convert text to lowercase or uppercase for consistent formatting.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Text Deletion**: Select and delete specific portions of the text input.
 
-### `npm run eject`
+- **Copy to Clipboard**: Copy the modified text to your clipboard with a single click.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Remove Extra Spaces**: Clean up your text by removing unnecessary extra spaces.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Dark Mode**: Toggle between light and dark modes to customize your reading experience.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Preview
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="960" alt="Screenshot 2023-08-09 151221" src="https://github.com/AbhinavBachchan/NewsDeck/assets/78028264/89273a02-2c96-49c7-955f-d6baca06fded">
 
-## Learn More
+<img width="959" alt="Screenshot 2023-08-09 151256" src="https://github.com/AbhinavBachchan/NewsDeck/assets/78028264/ab53dac4-d290-4de1-9f0a-79a2066aaad7">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Enter or paste your text into the input area.
 
-### Code Splitting
+2. Use the buttons to apply various text transformations: lowercase, uppercase, delete, and remove extra spaces.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Click the "Copy" button to copy the modified text to your clipboard.
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+We welcome contributions from the community! To contribute to NewsDeck, follow these steps:
 
-### Making a Progressive Web App
+1. Fork the repository on GitHub.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+2. Clone your forked repository to your local machine:
+- git clone https://github.com/AbhinavBachchan/TextUtils.git
+- cd TextUtils  
+3. Create a new branch for your feature or bug fix:
+- git checkout -b feature/my-feature 
+4. Make your changes and commit them:
+- git commit -m "Add new feature"
+5. Push your changes to your forked repository:
+- git push origin feature/my-feature
+6. Open a pull request on the original repository.
 
-### Advanced Configuration
+#### Your contributions help make TextUtils even better for everyone!
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+We extend our gratitude to the following:
 
-### Deployment
+- [React](https://react.dev/)  for the JavaScript library.
+- [Bootstrap](https://getbootstrap.com/) for the fantastic styling framework.
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+For questions, feedback, or collaboration, feel free to reach out:
 
-### `npm run build` fails to minify
+- Email: abhinavshubh123@gmail.com
+- LinkedIn: [Abhinav Bachchan](https://www.linkedin.com/in/abhinav-bachchan-b2085b236)
+- GitHub: [AbhinavBachchan](https://github.com/AbhinavBachchan)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

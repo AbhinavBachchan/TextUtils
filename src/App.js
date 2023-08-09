@@ -42,8 +42,8 @@ function App() {
 {/* in the value we ill only assign that is mentioned in the corresponding propstype else it will throw error */}
 <div className="container my-3">
  <Routes>
-  <Route exact path="/" element={<TextForm heading="Enter text" mode={mode} showAlert={showAlert}/>}></Route>
-  <Route exact path="/about" element={<About mode={mode}/>}></Route>
+ <Route exact path="/" element={<TextForm heading="Enter text" mode={mode} showAlert={showAlert}/>}></Route>
+ <Route exact path="/about" element={<About mode={mode}/>}></Route>
  </Routes> 
 {/* <TextForm heading="Enter text" mode={mode} showAlert={showAlert}/> */}
     
