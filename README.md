@@ -41,9 +41,11 @@ Follow these steps to set up and run TextUtils locally:
 
 ## Preview
 
-<img width="960" alt="Screenshot 2023-08-09 151221" src="https://github.com/AbhinavBachchan/NewsDeck/assets/78028264/89273a02-2c96-49c7-955f-d6baca06fded">
+<img width="959" alt="Screenshot 2023-08-09 170530" src="https://github.com/AbhinavBachchan/TextUtils/assets/78028264/ffa744aa-dce4-4c8a-a621-bc16bcf65120">
 
-<img width="959" alt="Screenshot 2023-08-09 151256" src="https://github.com/AbhinavBachchan/NewsDeck/assets/78028264/ab53dac4-d290-4de1-9f0a-79a2066aaad7">
+<img width="960" alt="Screenshot 2023-08-09 170619" src="https://github.com/AbhinavBachchan/TextUtils/assets/78028264/f12a859d-4953-4218-8acc-30bcab91c8be">
+
+<img width="959" alt="Screenshot 2023-08-09 170709" src="https://github.com/AbhinavBachchan/TextUtils/assets/78028264/c49cc9fd-6aa5-4a15-bb12-5d318a4622dd">
 
 ## Usage
 
